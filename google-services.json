@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "783131806523",
+    "project_id": "testpushnotification-9cedb",
+    "storage_bucket": "testpushnotification-9cedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783131806523:android:b238cef6536ddafc15051e",
+        "android_client_info": {
+          "package_name": "com.apiPaulo.AgroEcomece"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783131806523-dq0bl5p10jb9q97nbvniktar3ahcvjjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-M60upb7Cerq2_vjP_KZ6mirfRa9UrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783131806523-dq0bl5p10jb9q97nbvniktar3ahcvjjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783131806523:android:e15fc4b1565e924215051e",
+        "android_client_info": {
+          "package_name": "com.apiPaulo.shopingRoca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783131806523-dq0bl5p10jb9q97nbvniktar3ahcvjjp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr-M60upb7Cerq2_vjP_KZ6mirfRa9UrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783131806523-dq0bl5p10jb9q97nbvniktar3ahcvjjp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
