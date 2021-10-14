@@ -1,2 +1,2 @@
 # E-ComerceByExpo
-My first project use expo
+My first e-commerce project using Expo.
